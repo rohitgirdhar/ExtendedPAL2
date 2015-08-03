@@ -3,7 +3,7 @@ nice -n 10 $CODE_PATH/buildIndex.bin \
     -d /srv2/rgirdhar/Work/Datasets/processed/0010_ExtendedPAL_moreTest/features/CNN/pool5_uni_normed_LMDB \
     -n /srv2/rgirdhar/Work/Datasets/processed/0010_ExtendedPAL_moreTest/lists/NdxesTest.txt \
     -c /srv2/rgirdhar/Work/Datasets/processed/0010_ExtendedPAL_moreTest/features/selsearch_boxes/counts.txt \
-    -s /srv2/rgirdhar/Work/Datasets/processed/0010_ExtendedPAL_moreTest/search/indexes/trainNneg.index \
+    -s /srv2/rgirdhar/Work/Datasets/processed/0010_ExtendedPAL_moreTest/search/indexes/test.index \
     -b 256 \
     -t 1 \
     -a 900 \
